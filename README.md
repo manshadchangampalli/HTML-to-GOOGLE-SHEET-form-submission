@@ -67,7 +67,7 @@ step 3
     
   step 5 
   
-    go to tools -> script editr -> add a file ->>a
+    go to tools -> script editr -> add a file ->>add the name as the form name
     
     and peste the code
     
