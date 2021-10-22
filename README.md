@@ -67,7 +67,7 @@ step 3
     
   step 5 
   
-    go to tools -> script editr -> add a file 
+    go to tools -> script editr -> add a file ->>a
     
     and peste the code
     
