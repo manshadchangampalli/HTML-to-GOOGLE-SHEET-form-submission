@@ -4,7 +4,7 @@ HTML to GOOGLE SHEET form submission code check the readme
 
 step 1
 
-  create a form and wrap it in  <form> tag
+  create a form and wrap it in  "<form>" tag
   
 step 2 
   
