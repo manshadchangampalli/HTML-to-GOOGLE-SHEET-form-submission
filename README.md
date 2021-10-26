@@ -56,8 +56,8 @@ step 3
         errorMsg.style.display="block" 
     }
     )
-    
-})
+    })
+
 
 
   step 4
